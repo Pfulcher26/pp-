@@ -1,10 +1,19 @@
+body {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
 .bodystyle {
-    color:rgb(247, 221, 225); 
+    color: rgb(22, 20, 20); 
     font-style: Georgia;
     font-weight: 200;
     font-size: large;
 }
 
-body {
-    background-color: rgb(80, 202, 202);
+.headerstyle {
+    color: rgb(22, 20, 20); 
+    font-style: Georgia;
+    font-weight: 500;
+    font-size: x-large;
+    font-stretch: expanded;
 }
