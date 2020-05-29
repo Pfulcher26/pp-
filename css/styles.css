@@ -3,6 +3,12 @@
     padding: 10px;
 }
 
+.sexystyle1 {
+    border: 1px dotted gray;
+    padding: 10px;
+    float: left; 
+}
+
 .box {
     border: 1px solid black;  
     padding: 2px; 
@@ -12,11 +18,6 @@
 body {
     background-color: rgba(255, 255, 255, 0.930);
     text-align: center;
-}
-
-h1 {
-    text-shadow: blueviolet; 
-    font-size: 500;   
 }
 
 .bodystyle {
@@ -39,6 +40,10 @@ h1 {
     font-weight: 500;
     font-size: x-large;
     font-stretch: expanded;
+}
+
+ul {
+    float: left; 
 }
 
 body {
