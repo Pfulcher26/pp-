@@ -1,3 +1,7 @@
+img {
+    border: 6px solid black; 
+}
+
 .sexystyle {
     border: 1px dotted gray;
     padding: 10px;
@@ -9,9 +13,7 @@
     float: left; 
 }
 
-.box {
-    border: 1px solid black;  
-    padding: 2px; 
+.box { 
     margin: 30px;  
 }
 
