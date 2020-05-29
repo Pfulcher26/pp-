@@ -1,5 +1,11 @@
+.sexystyle {
+    border: 1px dotted gray;
+    padding: 10px;
+}
+
 .box {
     border: 1px solid black;  
+    padding: 2px; 
     margin: 30px;  
 }
 
@@ -14,6 +20,13 @@ h1 {
 }
 
 .bodystyle {
+    color: rgb(22, 20, 20); 
+    font-style: Georgia;
+    font-weight: 200;
+    font-size: large;
+}
+
+.bodystyle1 {
     color: rgb(22, 20, 20); 
     font-style: Georgia;
     font-weight: 200;
