@@ -1,3 +1,14 @@
+
+.master {
+    margin: auto;
+    width: 85%;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.930);
+    text-align: center;
+}
+
 img {
     border: 6px solid black; 
 }
@@ -15,11 +26,6 @@ img {
 
 .box { 
     margin: 30px;  
-}
-
-body {
-    background-color: rgba(255, 255, 255, 0.930);
-    text-align: center;
 }
 
 .bodystyle {
