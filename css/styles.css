@@ -1,6 +1,16 @@
+.box {
+    border: 1px solid black;  
+    margin: 30px;  
+}
+
 body {
-    background-color: whitesmoke;
+    background-color: rgba(255, 255, 255, 0.930);
     text-align: center;
+}
+
+h1 {
+    text-shadow: blueviolet; 
+    font-size: 500;   
 }
 
 .bodystyle {
